@@ -1,12 +1,27 @@
-# React + Vite
+# ebiz - Responsive React Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 1](src/assets/images/screencapture-home-page.png)
 
-Currently, two official plugins are available:
+## 🚀 Core Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React 19 – Powerful and efficient UI rendering
 
-## Expanding the ESLint configuration
+- React Router DOM (v7) – Seamless page navigation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Tailwind CSS 4 – Modern utility-first styling framework
+
+- Lucide Icons – Lightweight, consistent icon library
+
+- Swiper – Beautiful, mobile-friendly carousels and sliders
+
+- React Helmet Async – SEO enhancements with dynamic meta tags
+
+## 🧰 Developer Tools & Build System
+
+- Vite 6 – Lightning-fast development and build tool
+
+- ESLint (v9) – Code linting with hooks and refresh plugins
+
+- TypeScript Support – With @types/react and @types/react-dom
+
+- Tailwind + Vite Plugin – Rapid styling with build-time optimization
