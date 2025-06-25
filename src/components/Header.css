@@ -1,0 +1,12 @@
+header{overflow-x: clip;}
+.tnav{position: relative; }
+.tnav :after {
+    content: "";
+    background-color: #1c398e;
+    position: absolute;
+    right: -100%;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+}
+.subnenu div:last-child button{display: none;}
